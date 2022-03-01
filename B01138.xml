@@ -1,0 +1,298 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The praise of Saint Dauids day. Shewing the reason why the Welshmen honour the leeke on that day. To the tune of When this old cap was new.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1630</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01138</idno>
+            <idno type="STC">STC 6318</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[324]</idno>
+            <idno type="EEBO-CITATION">99884387</idno>
+            <idno type="PROQUEST">ocm99884387</idno>
+            <idno type="VID">183087</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01138)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183087)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:1[171])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The praise of Saint Dauids day. Shewing the reason why the Welshmen honour the leeke on that day. To the tune of When this old cap was new.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>ca. 1630]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by STC.</note>
+                  <note>Verse: "VVho list to reade the deeds".</note>
+                  <note>In two parts, separated for mounting; woodcuts at head of each part.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="324" facs="tcp:183087:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 17 -->
+            <head>The <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>raiſe of Saint <hi>Dauids</hi> day.</head>
+            <head type="sub">Shewing the Reaſon why the Welſhmen honour the Leeke on that day.</head>
+            <opener>To the tune of <hi>When this Old Cap was new.</hi>
+            </opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>VVHo liſt to reade the déeds</l>
+                  <l>by valiant Welch-men done,</l>
+                  <l>Shall find them worthy m<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n of Armes,</l>
+                  <l>as breath is beneath the Sunne:</l>
+                  <l>They are of valiant hearts,</l>
+                  <l>of nature kind and méeke,</l>
+                  <l>An honour on Saint <hi>Davids,</hi> day,</l>
+                  <l>it is to weare a Leeke.</l>
+               </lg>
+               <lg>
+                  <l>The Welch moſt ancient is</l>
+                  <l>of this our famous land,</l>
+                  <l>Who were the firſt that conquer'd it,</l>
+                  <l>by force and warlike hand.</l>
+                  <l>From <hi>Troy</hi> ſtout, <hi>Brute</hi> did come,</l>
+                  <l>this kingdome for to ſeeke;</l>
+                  <l>Which was poſſeſt by ſauage-men,</l>
+                  <lg type="refrain">
+                     <l>then honoured be the Leeke.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>He hauing won the ſame,</l>
+                  <l>and put them to the ſword:</l>
+                  <l>Of <hi>Brute</hi> did Britaine firſt take name,</l>
+                  <l>as Chronicles record.</l>
+                  <l>The Welch true Brittaines are,</l>
+                  <l>whoſe ſwords in blood did reeke,</l>
+                  <l>Of Pagan men being heatheniſh,</l>
+                  <lg type="refrain">
+                     <l>then honoured be the Leeke.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>And now if you would know,</l>
+                  <l>why they the Leeke doe weare,</l>
+                  <l>In honour of Saint <hi>Davids</hi> day,</l>
+                  <l>It plainely ſhall appeare.</l>
+                  <l>Vpon Saint <hi>Davids</hi> day,</l>
+                  <l>and firſt of March that weeke,</l>
+                  <l>The Welch-men with their foes did ioyne,</l>
+                  <lg type="refrain">
+                     <l>then honoured be the Leeke.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>And being in the field,</l>
+                  <l>their valour they did try;</l>
+                  <l>Where thouſands on both ſides being ſlaine,</l>
+                  <l>within their bloods did lye.</l>
+                  <l>And they not knowing how</l>
+                  <l>their friends from foes to ſeeke,</l>
+                  <l>Into a Garden they did goe,</l>
+                  <l>where each one pull'd a Leeke:</l>
+               </lg>
+               <lg>
+                  <l>And wore it in his Hat,</l>
+                  <l>their Countrey-men to know;</l>
+                  <l>And their moſt valiantly they did,</l>
+                  <l>o'recome their warlike for.</l>
+                  <l>Then were no colours knowne,</l>
+                  <l>nor any feathers eeke;</l>
+                  <l>The feathers firſt or'ginall,</l>
+                  <l>it was the Welch-mans Leeke,</l>
+               </lg>
+               <lg>
+                  <l>And euer ſince that time,</l>
+                  <l>the Leeke they vſe to weare</l>
+                  <l>In honor of Saint <hi>Davids</hi> day,</l>
+                  <l>they doe that Trophy beare.</l>
+                  <l>A Reuerend Biſhop was</l>
+                  <l>Saint <hi>David</hi> mild and méeke,</l>
+                  <l>And tis an honour that ſame day,</l>
+                  <l>for them to weare a Leeke.</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb n="325" facs="tcp:183087:1" rendition="simple:additions"/>
+               <!-- PDF PAGE 17 -->
+               <head>The ſecond part.</head>
+               <opener>To the ſame tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>FOr Engliſhmen Saint <hi>George,</hi>
+                  </l>
+                  <l>Saint <hi>Andrew</hi> for the Scot,</l>
+                  <l>Saint <hi>Patericke</hi> for Ireland,</l>
+                  <l>Saint <hi>David</hi> Welſhmens Lot:</l>
+                  <l>In honour of which Saint,</l>
+                  <l>thoſe Countrey men doe ſeeke,</l>
+                  <l>For to remember the ſame day,</l>
+                  <l>in wearing of a Leeke.</l>
+               </lg>
+               <lg>
+                  <l>Each Countrey hath his Saint,</l>
+                  <l>why ſhould not <hi>Welſh-men</hi> then</l>
+                  <l>Giue honour to her Country due,</l>
+                  <l>as well as other men,</l>
+                  <l>A Reaſon for the ſame,</l>
+                  <l>are many men to ſeeke,</l>
+                  <l>Then Know it is an honour braue,</l>
+                  <l>that day to weare a Léeke.</l>
+               </lg>
+               <lg>
+                  <l>What Royall Princes haue,</l>
+                  <l>in fruitefull <hi>Wales</hi> bin borne,</l>
+                  <l>Yea for to weare a Leeke that day,</l>
+                  <l>they tooke it for no ſcorne.</l>
+                  <l>The ſeuenth <hi>Henery,</hi>
+                  </l>
+                  <l>was borne on mountaine Peke,</l>
+                  <l>Which on that day did vſe to weare,</l>
+                  <l>in ſolemne ſort the Leeke.</l>
+               </lg>
+               <lg>
+                  <l>From him <hi>Elizabeth,</hi>
+                  </l>
+                  <l>did lineally deſcend,</l>
+                  <l>Who did the Goſpell true maintaine,</l>
+                  <l>vntill her life did end,</l>
+                  <l>And ſhee vpon that day,</l>
+                  <l>with diuers Courtiers meeke</l>
+                  <l>In token of that victory,</l>
+                  <l>did weare the honoured Leeke,</l>
+               </lg>
+               <lg>
+                  <l>And Royall Kings likewiſe,</l>
+                  <l>from <hi>Heneryes</hi> loynes did ſpring,</l>
+                  <l>With many noble Princes elſe,</l>
+                  <l>beſides our Royall King,</l>
+                  <l>And Princes more of <hi>Wales<g ref="char:punc">▪</g>
+                     </hi>
+                  </l>
+                  <l>that day were ne're to ſeeke,</l>
+                  <l>For on that day for <hi>Dauids</hi> ſake,</l>
+                  <l>they alwaies wore a Leeke<g ref="char:punc">▪</g>
+                  </l>
+               </lg>
+               <lg>
+                  <l>When Princes of the Blood,</l>
+                  <l>did celebrate the ſame,</l>
+                  <l>Whom forraine nations ſo admir'd,</l>
+                  <l>and praiſ'd with laſting fame,</l>
+                  <l>Who had ſuch Lyons hearts,</l>
+                  <l>yet like to lambes were meeke,</l>
+                  <l>That did in honour of that day,</l>
+                  <l>ſtill weare the royall Leeke.</l>
+               </lg>
+               <lg>
+                  <l>I call it Royall Leeke,</l>
+                  <l>Cauſe Princes it doth weare,</l>
+                  <l>Let no true hearted <hi>Welch-man</hi> than,</l>
+                  <l>diſdaine the ſame to beare:</l>
+                  <l>But let them now as they,</l>
+                  <l>true honour alwaies ſeeke,</l>
+                  <l>And ſtill remember <hi>Dauids</hi> day:</l>
+                  <l>in wearing of a Leeke.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
